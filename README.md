@@ -67,7 +67,7 @@ We compare the performance of multiple CNN architectures before and after data a
 
 - **Framework:** TensorFlow / Keras
 - **Models:** VGG16, MobileNetV2, ResNet50, EfficientNetB0 (all ImageNet pretrained)
-- **Data:** [Potato Leaf Disease Dataset (Kaggle)](https://www.kaggle.com/datasets/arjuntejaswi/plant-village)
+- **Data:** [Potato Leaf Disease Dataset (Kaggle)](https://www.kaggle.com/datasets/hafiznouman786/potato-plant-diseases-data)
 - **Storage:** SQLite3 for storing model, layers & training metadata
 - **Scheduler:** `CosineDecay` learning rate schedule
 
